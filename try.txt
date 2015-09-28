@@ -1,4 +1,7 @@
 jinchuhan
 jiazijian
 yangyifan
+<<<<<<< HEAD
 
+=======
+>>>>>>> new
